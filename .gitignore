@@ -1,0 +1,20 @@
+.cache/
+log/
+output/
+output_merge/
+_scripts/wandb/
+
+# Ignore core dump files (e.g. core, core.12345)
+core
+core.*
+
+# Ignore __pycache__ folders anywhere
+__pycache__/
+**/__pycache__/
+
+# Or recursively all __pycache__ folders
+**/__pycache__/**
+
+# Ignore wandb folders anywhere
+wandb/
+**/wandb/

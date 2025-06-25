@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: lora_finetune
+Version: 0.2.0
+Summary: lora_finetune
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Requires-Dist: dataclasses
+Requires-Dist: typing
